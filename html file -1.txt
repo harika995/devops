@@ -1,0 +1,32 @@
+<DOCTYPE html>
+<!--codng by coding nepal-codingnepalweb.com-->
+<html lang ="cn"dir="ltr">
+<head>
+<meta charset ="uTF-8">
+<meta name="viewport"content="width=device-width,intial-scale=1.0">
+<tittle>registration or sign up form in html css/coding<ab>/tittle>
+<link rel="<stylesheet"href="style.css>
+</head>
+<body>
+<div class="wrapper">
+<h2>registration</h2>
+<form action>"#">
+<div class="input -box">
+<input type="text"placeholder="enter your name"required>
+</div>
+<div class="input-box">
+<input type="text"placeholders="enter your email"required>
+</div>
+<div class=input-box">
+<input type="password"placeholder="confirm password"required>
+</div>
+<div class="policy">
+<h3> I accept all tearms &conditions</h3>
+</div>
+<div class="text">
+<h3>already have an account ?<ahref=#login now</a></n3>
+</div>
+</form>
+<div>
+</body>
+</html>
